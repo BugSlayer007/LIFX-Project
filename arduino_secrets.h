@@ -1,0 +1,2 @@
+#define SECRET_SSID "WiFi-C56E23"
+#define SECRET_PASS "pL8FUcWk6TdFHL6q"
